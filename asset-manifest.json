@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Movie-App/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Movie-App/static/js/main.06b30188.chunk.js",
+    "main.js.map": "/Movie-App/static/js/main.06b30188.chunk.js.map",
+    "runtime-main.js": "/Movie-App/static/js/runtime-main.06401970.js",
+    "runtime-main.js.map": "/Movie-App/static/js/runtime-main.06401970.js.map",
+    "static/js/2.6e25a626.chunk.js": "/Movie-App/static/js/2.6e25a626.chunk.js",
+    "static/js/2.6e25a626.chunk.js.map": "/Movie-App/static/js/2.6e25a626.chunk.js.map",
+    "static/js/3.80379939.chunk.js": "/Movie-App/static/js/3.80379939.chunk.js",
+    "static/js/3.80379939.chunk.js.map": "/Movie-App/static/js/3.80379939.chunk.js.map",
+    "index.html": "/Movie-App/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Movie-App/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.6e25a626.chunk.js.LICENSE.txt": "/Movie-App/static/js/2.6e25a626.chunk.js.LICENSE.txt",
+    "static/media/no_image.45d45293.jpg": "/Movie-App/static/media/no_image.45d45293.jpg",
+    "static/media/react-movie-logo.e88a4cae.svg": "/Movie-App/static/media/react-movie-logo.e88a4cae.svg",
+    "static/media/search-icon.82b9d96a.svg": "/Movie-App/static/media/search-icon.82b9d96a.svg",
+    "static/media/tmdb_logo.2ecbb19c.svg": "/Movie-App/static/media/tmdb_logo.2ecbb19c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06401970.js",
+    "static/js/2.6e25a626.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.06b30188.chunk.js"
+  ]
+}
